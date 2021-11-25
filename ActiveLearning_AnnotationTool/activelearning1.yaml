@@ -1,0 +1,19 @@
+data_paths:
+  - "DVR___2019-01-28_12.14.36.AVI"
+  - "01-28-19_12.csv"
+
+sync:
+  necksense: 0
+
+activelearning_output: 
+  - "Sample_input_file.csv"
+
+start_time: "2021-03-24 14:04:29.523480"
+
+label_path: "labels.csv"
+
+remote_data_path: "Necksense_Freeliving_Subset/"
+#"/Volumes/fsmresfiles/PrevMed/Alshurafa_Lab/Lab_Common/CalorieHarmony/Calorie Harmony Early 2019/In-wild/"
+
+al_backend_data: "ALData/"
+

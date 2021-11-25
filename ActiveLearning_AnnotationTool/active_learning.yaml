@@ -1,0 +1,18 @@
+data_paths:
+  - "DVR___2019-01-28_12.14.36.AVI"
+  - "01-28-19_12.csv"
+
+sync:
+  necksense: 0
+
+activelearning_output: 
+  - "activelearning_output.csv"
+
+start_time: "2021-03-24 14:04:29.523480"
+
+label_path: "labels.csv"
+
+remote_data_path: "dummyVENV/"
+
+
+
